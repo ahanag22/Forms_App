@@ -1,0 +1,11 @@
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/bin/Debug/Test.dll
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/bin/Debug/Test.pdb
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/bin/Debug/nunit.framework.dll
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/bin/Debug/Xamarin.UITest.dll
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/bin/Debug/Xamarin.UITest.xml
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/bin/Debug/nunit.framework.xml
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/obj/Debug/Test.csprojAssemblyReference.cache
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/obj/Debug/Test.csproj.CopyComplete
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/obj/Debug/Test.dll
+/Users/ahanag22/Desktop/xamarin-forms-samples/UserInterface/TableView/Test/obj/Debug/Test.pdb
